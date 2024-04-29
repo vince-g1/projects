@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\userapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\userapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\dataaccesslayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\dataaccesslayer\\interfaces\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interfaces\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\dataaccesslayer\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692A529A-F090-49AF-A5EB-D437CB0A767F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\businesslogiclayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692A529A-F090-49AF-A5EB-D437CB0A767F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692A529A-F090-49AF-A5EB-D437CB0A767F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\businesslogiclayer\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692A529A-F090-49AF-A5EB-D437CB0A767F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\dataaccesslayer\\entities\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\userapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\userapi\\userapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C0DAC90-47D0-4FE4-B0BD-1B7AB7CA1C0B}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\userapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\dataaccesslayer\\migrations\\20240429063159_initial mig to create user table5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20240429063159_initial mig to create user table5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\appwrk lap-63\\desktop\\userregistration\\dataaccesslayer\\data\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0192830F-8DEA-411D-8447-A825F0A77300}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:24:23.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\Interfaces\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Interfaces\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\Interfaces\\UserRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Interfaces\\UserRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAApwCAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:24:03.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\UserAPI\\Program.cs",
+              "RelativeDocumentMoniker": "UserAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\UserAPI\\Program.cs",
+              "RelativeToolTip": "UserAPI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:35:27.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\UserAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\UserAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:25:00.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\UserAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "UserAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\UserAPI\\appsettings.json",
+              "RelativeToolTip": "UserAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T05:55:06.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\BusinessLogicLayer\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\UserService.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\BusinessLogicLayer\\UserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\UserService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:20:51.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\UserAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UserAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\UserAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UserAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:38:16.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserLoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\Entities\\UserLoginRequestDto.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\UserLoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\Entities\\UserLoginRequestDto.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\UserLoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:33:57.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\BusinessLogicLayer\\IUserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IUserService.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\BusinessLogicLayer\\IUserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IUserService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAawA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:21:59.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\Entities\\User.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:23:43.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\UserAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\UserAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T07:33:02.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\UserAPI\\UserAPI.csproj",
+              "RelativeDocumentMoniker": "UserAPI\\UserAPI.csproj",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\UserAPI\\UserAPI.csproj",
+              "RelativeToolTip": "UserAPI\\UserAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T06:52:37.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240429063159_initial mig to create user table5.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\Migrations\\20240429063159_initial mig to create user table5.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20240429063159_initial mig to create user table5.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\Migrations\\20240429063159_initial mig to create user table5.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20240429063159_initial mig to create user table5.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:32:00.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\Data\\UsersDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\UsersDbContext.cs",
+              "ToolTip": "C:\\Users\\APPWRK LAP-63\\Desktop\\UserRegistration\\DataAccessLayer\\Data\\UsersDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\UsersDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:23:16.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
