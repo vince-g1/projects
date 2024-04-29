@@ -10,10 +10,8 @@ namespace BusinessLogicLayer
     public interface IUserService
     {
         Task<IEnumerable<User>> GetUsersAsync();
-
         Task<User> GetById(Guid id);
-
-        User GetUserByEmail(UserLoginRequestDto user);
+        User GetUser(UserLoginRequestDto user);
         Task<bool> CreateUser(User user);
     }
 }

@@ -17,46 +17,62 @@ namespace DataAccessLayer.Interfaces
         {
             _dbContext = dbContext;
         }
+
+        /// <summary>
+        /// Get user by id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public async Task<User> GetUserByIdAsync(Guid id)
         {
             try
             {
                 return await _dbContext.Users.FindAsync(id);
             }
-            catch (Exception ex)
+            catch
             {
-                Console.WriteLine(ex);
                 return null;
             }
         }
 
-        public User GetUserByEmail(UserLoginRequestDto user)
+        /// <summary>
+        /// Get user with the given email and password
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
+        public User GetUser(UserLoginRequestDto user)
         {
             try
             {
-                //return await _dbContext.Users.FindAsync(id);
                 return _dbContext.Users.First(x => x.Email == user.Email && x.Password==user.Password);
             }
-            catch (Exception ex)
+            catch
             {
-                Console.WriteLine(ex);
                 return null;
             }
         }
 
+        /// <summary>
+        /// Get all users
+        /// </summary>
+        /// <returns></returns>
         public async Task<IEnumerable<User>> GetUsersAsync()
         {
             try
             {
                 return await _dbContext.Users.ToListAsync();
             }
-            catch (Exception ex)
+            catch
             {
-                Console.WriteLine(ex);
                 return null;
             }
         }
 
+        /// <summary>
+        /// Create new user from the registration form details
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         public async Task<bool> CreateUser(User user)
         {
             try
@@ -65,9 +81,8 @@ namespace DataAccessLayer.Interfaces
                 await _dbContext.SaveChangesAsync();
                 return true;
             }
-            catch (Exception ex)
+            catch
             {
-                Console.WriteLine(ex);
                 return false;
             }
         }

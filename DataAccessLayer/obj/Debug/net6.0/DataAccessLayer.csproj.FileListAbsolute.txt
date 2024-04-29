@@ -27,3 +27,4 @@ C:\Users\APPWRK LAP-63\Desktop\UserRegistration\DataAccessLayer\obj\Debug\net6.0
 C:\Users\APPWRK LAP-63\Desktop\UserRegistration\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
 C:\Users\APPWRK LAP-63\Desktop\UserRegistration\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\APPWRK LAP-63\Desktop\UserRegistration\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\APPWRK LAP-63\Desktop\UserRegistration\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.sourcelink.json

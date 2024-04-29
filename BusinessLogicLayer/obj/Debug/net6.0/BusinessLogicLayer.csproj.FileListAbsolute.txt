@@ -29,3 +29,4 @@ C:\Users\APPWRK LAP-63\Desktop\UserRegistration\BusinessLogicLayer\obj\Debug\net
 C:\Users\APPWRK LAP-63\Desktop\UserRegistration\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
 C:\Users\APPWRK LAP-63\Desktop\UserRegistration\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
 C:\Users\APPWRK LAP-63\Desktop\UserRegistration\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
+C:\Users\APPWRK LAP-63\Desktop\UserRegistration\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.sourcelink.json

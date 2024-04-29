@@ -11,7 +11,6 @@ namespace BusinessLogicLayer
     public class UserService : IUserService
     {
         private readonly IUserRepository _userRepository;
-
         public UserService(IUserRepository userRepository)
         {
             _userRepository = userRepository;
@@ -20,16 +19,14 @@ namespace BusinessLogicLayer
         {
             return await _userRepository.GetUserByIdAsync(id);
         }
-        public User GetUserByEmail(UserLoginRequestDto user)
+        public User GetUser(UserLoginRequestDto user)
         {
-            return  _userRepository.GetUserByEmail(user);
-            //return null;
+            return  _userRepository.GetUser(user);
         }
         public async Task<IEnumerable<User>> GetUsersAsync()
         {
             return await _userRepository.GetUsersAsync();
         }
-
         public async Task<bool> CreateUser(User user)
         {
             return await _userRepository.CreateUser(user);

@@ -10,12 +10,8 @@ namespace DataAccessLayer.Interfaces
     public interface IUserRepository
     {
         Task<User> GetUserByIdAsync(Guid id);
-        User GetUserByEmail(UserLoginRequestDto user);
-
+        User GetUser(UserLoginRequestDto user);
         Task<IEnumerable<User>> GetUsersAsync();
-
         Task<bool> CreateUser(User user);
-
-
     }
 }

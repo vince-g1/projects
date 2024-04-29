@@ -15,6 +15,11 @@ namespace UserAPI.Controllers
             _userService = userService;
         }
 
+        /// <summary>
+        /// Gets user details from the id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet]
         [Route("{id:Guid}")]
         public async Task<IActionResult> GetUserById([FromRoute] Guid id)
@@ -29,14 +34,17 @@ namespace UserAPI.Controllers
                 }
                 return Ok(record);
             }
-            catch (Exception ex)
+            catch
             {
-                Console.WriteLine(ex.ToString());
                 return StatusCode(500);
             }
         }
 
-
+        /// <summary>
+        /// Create new user in db with the registration form details
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         [HttpPost]
         public async Task<IActionResult> CreateUser([FromBody] User user)
         {
@@ -45,9 +53,8 @@ namespace UserAPI.Controllers
                 await _userService.CreateUser(user);
                 return CreatedAtAction(nameof(GetUserById), new { id = user.Id }, user);
             }
-            catch (Exception ex)
+            catch
             {
-                Console.WriteLine(ex.ToString());
                 return StatusCode(500);
             }
         }
